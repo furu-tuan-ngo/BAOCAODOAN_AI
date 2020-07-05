@@ -1,0 +1,100 @@
+1. Trong phòng học có 6 hàng ghế, mỗi hàng ghế có 3 chỗ ngồi. Hỏi phòng học đó có bao nhiêu chỗ ngồi?
+2. Một túi có 6 kg gạo. Hỏi 5 túi như thế có bao nhiêu kg gạo ?
+3. Trên bàn có 4 đĩa cam, mỗi đĩa có 9 quả. Hỏi trên bàn có bao nhiêu quả cam?
+4. Có 5 thùng dầu, mỗi thùng đựng 10 lít dầu. Sau đó người ta lấy 20 lít dầu từ số đó bán ra. Hỏi còn lại bao nhiêu lít dầu?
+5. Một cửa hàng, ngày thứ nhất bán được 10 lit xăng, ngày thứ hai bán được nhiều hơn ngày thứ nhất 5 lit xăng. Hỏi cả 2 ngày cửa hàng đó bán được bao nhiêu lit xăng ?
+6. Một cửa hàng có 1242 cái áo, cửa hàng đã bán 1/6 số áo. Hỏi cửa hàng đó còn lại bao nhiêu cái áo?
+7. Trên bàn có 7 chồng sách, mỗi chồng sách có 9 quyển sách. Hỏi trên bàn có mấy quyển sách?
+8. Một rổ cam có 2 quả cam. Hỏi 7 rổ cam như thế có bao nhiêu quả cam?
+9. Trên bàn có 8 chồng sách, mỗi chồng sách có 2 quyển sách. Hỏi trên bàn có mấy quyển sách?
+10. Một túi có 3 kg gạo. Hỏi 9 túi như thế có bao nhiêu kg gạo?
+11. Một đội công nhân làm xong một con đường trong 4 ngày, mỗi ngày làm được 3m đường. Hỏi con đường đó dài bao nhiêu mét?
+12. Một hộp bánh có 5 cái bánh. Hỏi 7 hộp bánh có bao nhiêu cái bánh?
+13. Trong nhà em có 8 vỉ thuốc bổ, mỗi vỉ có 4 viên thuốc. Hỏi nhà em có bao nhiêu viên thuốc bổ?
+14. Trên bàn có 8 đĩa cam, mỗi đĩa có 9 quả. Hỏi trên bàn có bao nhiêu quả cam?
+15. Trong phòng học có 9 hàng ghế, mỗi hàng ghế có 3 chỗ ngồi. Hỏi phòng học đó có bao nhiêu chỗ ngồi?
+16. Một túi có 8 củ khoai. Hỏi 5 túi như thế có bao nhiêu củ khoai?
+17. Trên bàn có 7 chồng sách, mỗi chồng sách có 3 quyển sách. Hỏi trên bàn có mấy quyển sách?
+18. Trong nhà em có 6 vỉ thuốc bổ, mỗi vỉ có 10 viên thuốc. Hỏi nhà em có bao nhiêu viên thuốc bổ?
+19. Trong nhà em có 8 cái phòng, mỗi cái phòng có 7 hình dán. Hỏi nhà em có bao nhiêu hình dán?
+20. Một chiếc thuyền chở được 4 người. Hỏi 7 chiếc thuyền như thế chở được bao nhiêu người?
+21. Trong vườn có 4 hàng cây, mỗi hàng có 4 cây. Hỏi trong vườn có bao nhiêu cây?
+22. Trong vườn có 10 hàng cây, mỗi hàng có 5 cây. Hỏi trong vườn có bao nhiêu cây?
+23. Một túi có 4 kg gạo. Hỏi 9 túi như thế có bao nhiêu kg gạo?
+24. Mẹ có 75 chiếc kẹo, mẹ cho An 16 chiếc, sau đó cho Hà 19 chiếc. Hỏi mẹ còn bao nhiêu chiếc kẹo ?
+25. 5 cái hồ chứa được 75 con cá . Hỏi 90 con cá chứa được trong mấy cái hồ ?
+26. Một đội công nhân làm xong một con đường trong 9 ngày, mỗi ngày làm được 7 m đường. Hỏi con đường đó dài bao nhiêu mét?
+27. Trong phòng học có 4 hàng ghế, mỗi hàng ghế có 8 chỗ ngồi. Hỏi phòng học đó có bao nhiêu chỗ ngồi?
+28. Trên bàn có 9 đĩa cam, mỗi đĩa có 9 quả. Hỏi trên bàn có bao nhiêu quả cam?
+29. Một túi có 9 kg gạo. Hỏi 9 túi như thế có bao nhiêu kg gạo?
+30. Một túi có 3 kg gạo. Hỏi 7 túi như thế có bao nhiêu kg gạo?
+31. Trong phòng học có 6 hàng ghế, mỗi hàng ghế có 5 chỗ ngồi. Hỏi phòng học đó có bao nhiêu chỗ ngồi?
+32. Một đội công nhân làm xong một con đường trong 7 ngày, mỗi ngày làm được 3 m đường. Hỏi con đường đó dài bao nhiêu mét?
+33. Một chiếc thuyền chở được 9 người. Hỏi 4 chiếc thuyền như thế chở được bao nhiêu người?
+34. Trên bàn có 10 đĩa cam, mỗi đĩa có 4 quả. Hỏi trên bàn có bao nhiêu quả cam?
+35. Trên bàn có 5 chồng sách, mỗi chồng sách có 6 quyển sách. Hỏi trên bàn có mấy quyển sách?
+36. Một hộp bánh có 8 cái bánh . Hỏi 4 hộp bánh có bao nhiêu cái bánh?
+37. Trong vườn có 7 hàng cây, mỗi hàng có 3 cây. Hỏi trong vườn có bao nhiêu cây?
+38. Trong nhà em có 7 vỉ thuốc bổ, mỗi vỉ có 8 viên thuốc. Hỏi nhà em có bao nhiêu viên thuốc bổ?
+39. Trên bàn có 10 chồng sách, mỗi chồng sách có 6 quyển sách. Hỏi trên bàn có mấy quyển sách?
+40. Trên bàn có 3 đĩa cam, mỗi đĩa có 8 quả. Hỏi trên bàn có bao nhiêu quả cam?
+41. Trên bàn có 8 đĩa cam, mỗi đĩa có 9 quả. Hỏi trên bàn có bao nhiêu quả cam?
+42. Trên bàn có 9 chồng sách, mỗi chồng sách có 7 quyển sách. Hỏi trên bàn có mấy quyển sách?
+43. Em có 5 nhãn vở, Trang có nhiều hơn em 3 cái. Hỏi cả hai bạn có bao nhiêu cái nhãn vở?
+44. Một cửa hàng có 12 cái áo, cửa hàng đã bán 1/3 số áo. Hỏi cửa hàng đó còn lại bao nhiêu cái áo?
+45. An có 10 viên kẹo, Thu ít hơn an 2 viên. Hỏi cả 2 có bao nhiêu viên kẹo
+46. Trong phòng học có 6 hàng ghế, mỗi hàng ghế có 3 chỗ ngồi. Hỏi phòng học đó có bao nhiêu chỗ ngồi?
+47. Một túi có 6 kg gạo. Hỏi 5 túi như thế có bao nhiêu kg gạo?
+48. Cứ 8 người thì xếp được vào một cái thuyền qua sông. Hỏi có 24 người thì phải xếp thành bao nhiêu chuyến?
+49. Một bến xe có 76 ô tô. Lúc đầu có 18 ô tô rời bến, sau đó có thêm 16 ô tô nữa rời bến. Hỏi bến xe đó còn lại bao nhiêu ô tô?
+50. Hoàng có 4 viên kẹo, Trang có ít hơn An 2 viên. Hỏi cả 2 có bai nhiu viên kẹo
+51. Cô giáo có 45 cái bút thưởng đều cho 5 tổ. Hỏi mỗi tổ được thưởng bao nhiêu cái bút?
+52. Trong tiệc sinh nhật, Lan có mua 32 quả cam chia đều cho các bàn thì mỗi bàn có 8 quả cam. Hỏi tiệc sinh nhật bạn Lan có bao nhiêu cái bàn?
+53. Một đội công nhân phải làm xong con đường dài 24 m. Mỗi ngày đội công nhân làm được 6m. Hỏi đội công nhân làm xong con đường trong bao nhiêu ngày?
+54. Cô giáo có 40 cái bút thưởng đều cho 4 tổ. Hỏi mỗi tổ được thưởng bao nhiêu cái bút?
+55. Có 5 thùng dầu, mỗi thùng chứa 120 lít. Người ta đã lấy ra 130 lít từ số dầu đó. Hỏi còn lại bao nhiêu lít dầu?
+56. Một cửa hàng, ngày thứ nhất bán được 10 lit xăng, ngày thứ nhất bán được nhiều hơn ngày thứ hai 5 lit xăng. Hỏi cả 2 ngày cửa hàng đó bán được bao nhiêu lit xăng ?
+57. Trong đợt trồng cây năm nay, lớp em phải trồng 28 cây xanh. Lớp có 7 tổ và cô giáo chia đều số cây về các tổ. Hỏi mỗi tổ phải trồng bao nhiêu cây?
+58. Lớp 3A trồng được 42 cây, lớp 3B trồng được gấp 4 lần số cây của lớp 3A. hỏi cả hai lớp trồng được bao nhiêu cây?
+59. Trong tiệc sinh nhật, Lan có mua 72 quả cam chia đều cho các bàn thì mỗi bàn có 9 quả cam. Hỏi tiệc sinh nhật bạn Lan có bao nhiêu cái bàn?
+60. Thùng thứ nhất đựng 35 lít dầu, thùng thứ hai đựng nhiều hơn thùng thứ nhất 15 lít dầu. Hỏi cả hai thùng đựng bao nhiêu lít dầu?
+61. Cô giáo có 48 cái bút thưởng đều cho các tổ trong lớp, mỗi tổ được 6 cái bút. Hỏi lớp học có bao nhiêu tổ?
+62. Một đội công nhân phải làm xong con mương dài 32 m. Mỗi ngày đội công nhân làm được 8 m. Hỏi đội công nhân làm xong con mương trong bao nhiêu ngày?
+63. Cứ 3 cái bánh xếp vào một hộp. Hỏi có 27 cái bánh thì xếp đủ vào mấy cái hộp?
+64. Trong cuộc họp, Lan Anh có mua 28 chai nước chia đều cho các bàn thì mỗi bàn có 7 chai nước. Hỏi trong cuộc họp có bao nhiêu cái bàn?
+65. Trong tiệc sinh nhật, Lan có mua 60 quả cam chia đều cho các bàn thì mỗi bàn có 10 quả cam. Hỏi tiệc sinh nhật bạn Lan có bao nhiêu cái bàn?
+66. Một đội công nhân phải làm xong con đường dài 21 m trong 7 ngày. Hỏi mỗi ngày đội công nhân phải làm bao nhiêu mét đường?
+67. Một cửa hàng ngày thứ nhất bán được 28 lít dầu. Số dầu ngày thứ hai bán được bằng 1/7 số dầu bán được của ngày thứ nhất. Hỏi cả hai ngày cửa hàng bán được bao nhiêu lít dầu?
+68. Mỹ hái được 47 bông hoa, Linh hái được ít hơn Mỹ 46 bông hoa. Hỏi hai bạn hái được tất cả bao nhiêu bông hoa?
+69. Tổ một gấp được 46 cái thuyền, tổ hai gấp được gấp được nhiều hơn tổ một 6 cái thuyền. Hỏi cả hai tổ gấp được bao nhiêu cái thuyền?
+70. Băng giấy đỏ dài 25 cm, băng giấy xanh ngắn hơn băng giấy đỏ 14 cm. Hỏi cả hai băng giấy dài bao nhiêu xăng-ti-mét?
+71. Lan hái được 22 bông hoa, Nhi hái được nhiều hơn Lan 46 bông hoa. Hỏi hai bạn hái được tất cả bao nhiêu bông hoa?
+72. Trong vườn của bác Nam có 28 cây bưởi, số cây chuối bằng 1/7 số cây bưởi. Hỏi trong vườn nhà bác Nam có bao nhiêu cây bưởi và chuối?
+73. Trên bàn có 6 chồng sách, mỗi chồng sách có 4 quyển sách. Hỏi trên bàn có mấy quyển sách?
+74. Một đội công nhân làm xong một con đường trong 6 ngày, mỗi ngày làm được 3 m đường. Hỏi con đường đó dài bao nhiêu mét?
+75. Trong nhà em có 8 vỉ thuốc bổ, mỗi vỉ có 5 viên thuốc. Hỏi nhà em có bao nhiêu viên thuốc bổ?
+76. Một túi có 6 kg gạo. Hỏi 10 túi như thế có bao nhiêu kg gạo?
+77. Một chiếc thuyền chở được 9 người. Hỏi 5 chiếc thuyền như thế chở được bao nhiêu người?
+78. Cô giáo mua 20 cái bút thưởng đều cho 5 tổ. Hỏi mỗi tổ được thưởng bao nhiêu cái bút?
+79. Cô giáo có 56 cái bút thưởng đều cho 8 tổ. Hỏi mỗi tổ được thưởng bao nhiêu cái bút?
+80. Một đội công nhân phải làm xong con đường dài 24 m trong 8 ngày. Hỏi mỗi ngày đội công nhân phải làm bao nhiêu mét đường?
+81. Trong tiệc sinh nhật, Lan có mua 16 quả cam chia đều cho các bàn thì mỗi bàn có 4 quả cam. Hỏi tiệc sinh nhật bạn Lan có bao nhiêu cái bàn?
+82. Một cửa hàng buổi sáng bán được 13 kg đường. Buổi chiều bán được số đường gấp ba lần số đường bán được vào buổi sáng. Hỏi cả hai buổi cửa hàng bán được bao nhiêu kg đường?
+83. Mai có 21 nhãn vở, An có nhiều hơn Mai 3 nhãn vở. Hỏi cả hai bạn có tất cả bao nhiêu cái nhãn vở?
+84. Đội đồng ca của lớp 1A có 36 nữ, số bạn nam ít hơn số bạn nữ là 32 em. Hỏi đội đồng ca của lớp 1A có bao nhiêu em?
+85. Ngăn trên có 14 quyển sách. Số quyển sách ở ngăn dưới bằng 1/2 số quyển ở ngăn trên. Hỏi cả hai ngăn có bao nhiêu quyển sách?
+86. Tổ một gấp được 28 cái thuyền, tổ hai gấp được gấp được nhiều hơn tổ một 11 cái thuyền. Hỏi cả hai tổ gấp được bao nhiêu cái thuyền?
+87. Một khu vườn có 2 hàng , mỗi hàng có 24 bông hoa . Hỏi khu vườn đó có bao nhiêu bông hoa ?
+88. An có 2 viên kẹo, Thu có 3 viên kẹo, My có ít hơn An và Thu 2 viên kẹo. Hỏi My có bao nhiêu viên kẹo
+89. Một hộp bánh chứa được 10 cái bánh . Hỏi 60 cái bánh đựng được trong bao nhiêu hộp ?
+90. Một cửa hàng buổi sáng bán được 28 kg đường. Số đường buổi sáng bán được ít hơn số đường bán trong buổi chiều là 12 kg. Hỏi cả hai buổi cửa hàng bán được bao nhiêu kg đường?
+91. Băng giấy đỏ dài 40 cm, băng giấy xanh dài hơn băng giấy đỏ 15 cm. Hỏi cả hai băng giấy dài bao nhiêu xăng-ti-mét?
+92. Một cửa hàng buổi sáng bán được 52 kg đường. Số đường buổi sáng bán được nhiều hơn số đường bán trong buổi chiều 27 kg. Hỏi cả hai buổi cửa hàng bán được bao nhiêu kg đường?
+93. Mỹ hái được 5 bông hoa. Số bông hoa Linh hái được gấp sáu lần số hoa Mỹ hái được. Hỏi hai bạn hái được tất cả bao nhiêu bông hoa?
+94. Ngăn trên có 32 quyển sách. Số quyển sách ở ngăn dưới bằng 1/4 số quyển ở ngăn trên. Hỏi cả hai ngăn có bao nhiêu quyển sách?
+95. Một cửa hàng ngày thứ nhất bán được 30 lít dầu. Số dầu bán được của ngày thứ nhất ít hơn số dầu bán được của ngày thứ hai 21 lít. Hỏi cả hai ngày cửa hàng bán được bao nhiêu lít dầu?
+96. Tổ một gấp được 23 cái thuyền, tổ hai gấp được gấp được nhiều hơn tổ một 54 cái thuyền. Hỏi cả hai tổ gấp được bao nhiêu cái thuyền?
+97. Một cửa hàng ngày thứ nhất bán được 36 lít dầu. Số dầu ngày thứ hai bán được bằng 1/6 số dầu bán được của ngày thứ nhất. Hỏi cả hai ngày cửa hàng bán được bao nhiêu lít dầu?
+98. Đội đồng ca có 6 nữ, số bạn nam nhiều hơn số bạn nữ là 83 em. Hỏi đội đồng ca có bao nhiêu em?
+99. Mỹ hái được 4 bông hoa. Số bông hoa Linh hái được gấp sáu lần số hoa Mỹ hái được. Hỏi hai bạn hái được tất cả bao nhiêu bông hoa?
+100. Mẹ có 25 chiếc kẹo, mẹ cho An 5 chiếc, sau đó cho Hà 3 chiếc kẹo. Hỏi mẹ còn bao nhiêu chiếc kẹo ?
